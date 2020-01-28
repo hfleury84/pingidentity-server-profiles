@@ -34,10 +34,10 @@ objectClass: inetOrgPerson
 objectClass: pf-connected-identities
 sn: Tancordo
 cn: Sidonia Tancordo
-givenName: Sidonia
+givenName: Hugo
 uid: user.2
 mail: user.2@example.com
-userPassword: 2FederateM0re
+userPassword: 2Federate
 pf-connected-identity: auth-source=pf-local-identity:user-id=user.2
 
 dn: uid=user.3,ou=People,${USER_BASE_DN}
